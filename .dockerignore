@@ -1,0 +1,9 @@
+.git
+.opencode
+**/node_modules
+**/myenv
+**/__pycache__
+**/*.pyc
+**/instance
+backend/.pytest_cache
+frontend/dist
