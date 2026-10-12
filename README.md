@@ -1,12 +1,7 @@
 # RagaBot
 
-RagaBot is an Indonesian fitness chatbot. It classifies messages with the existing TensorFlow model and returns workouts from the original exercise dataset according to the selected fitness level.
+RagaBot is an Indonesian fitness chatbot. It classifies messages with a Neural Network TensorFlow model and returns workouts from the original exercise dataset according to the selected fitness level.
 
-## Requirements
-
-- Docker Engine with Docker Compose
-
-No Python, Node.js, packages, virtual environments, or `node_modules` are installed in this repository. Dependencies are installed only while building Docker images; SQLite data and frontend dependencies use Docker volumes.
 
 ## Start development
 
